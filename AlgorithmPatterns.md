@@ -1,5 +1,6 @@
 # Table of Contents
-- [Divide and Conquer](
+- [Divide and Conquer](#divide-and-conquer)
+- [Greedy Algoritms] (#greedy-algorithms)
 
 ### Divide and Conquer
 - Like Greedy and Dynamic Programming, Divide and Conquer is an algorithmic paradigm. A typical Divide and Conquer algorithm solves a problem using following three steps.
@@ -19,7 +20,7 @@
 4) Closest Pair of Points The problem is to find the closest pair of points in a set of points in x-y plane. The problem can be solved in O(n^2) time by calculating distances of every pair of points and comparing the distances to find the minimum. The Divide and Conquer algorithm solves the problem in O(nLogn) time.
 
 
-### Greedy Algorithms | Set 1 (Activity Selection Problem)
+### Greedy Algorithms
 - Greedy is an algorithmic paradigm that builds up a solution piece by piece, always choosing the next piece that offers the most obvious and immediate benefit. Greedy algorithms are used for optimization problems.
 - An optimization problem can be solved using Greedy if the problem has the following property: **At every step, we can make a choice that looks best at the moment, and we get the optimal solution of the complete problem.**
 - If a Greedy Algorithm can solve a problem, then it generally becomes the best method to solve that problem as the Greedy algorithms are in general more efficient than other techniques like Dynamic Programming.
