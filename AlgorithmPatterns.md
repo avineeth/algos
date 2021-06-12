@@ -1,3 +1,5 @@
+# Table of Contents
+- [Divide and Conquer](
 
 ### Divide and Conquer
 - Like Greedy and Dynamic Programming, Divide and Conquer is an algorithmic paradigm. A typical Divide and Conquer algorithm solves a problem using following three steps.
