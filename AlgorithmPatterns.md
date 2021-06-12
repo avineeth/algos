@@ -1,6 +1,7 @@
 # Table of Contents
 - [Divide and Conquer](#divide-and-conquer)
 - [Greedy Algoritms](#greedy-algorithms)
+- [Knuth-Morris-Pratt (KMP) Algoritm](#knuth-morris-pratt-kmp-algorithm)
 
 ### Divide and Conquer
 - Like Greedy and Dynamic Programming, Divide and Conquer is an algorithmic paradigm. A typical Divide and Conquer algorithm solves a problem using following three steps.
